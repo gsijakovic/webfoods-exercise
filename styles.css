@@ -80,6 +80,11 @@ main h1 {
   text-align: center;
 }
 
+h2 {
+  /* font-size: 100%; */
+  font-size: 2rem;
+}
+
 .btn {
   background-color: rgb(228, 157, 44);
   color: white;
